@@ -1,0 +1,3 @@
+{"timestamp":"2026-09-01T14:54:47.989839Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_EV_stations.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-09-01T14:55:18.247548Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_EV_stations.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}
+{"timestamp":"2026-09-01T14:55:48.501534Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/dag_EV_stations.py","logger":"airflow.dag_processing.dagbag.BundleDagBag","filename":"dagbag.py","lineno":460}

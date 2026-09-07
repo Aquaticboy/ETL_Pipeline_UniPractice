@@ -1,0 +1,162 @@
+connection_id,station_id,connection_type,power_kw,current_type
+873199,508022,CCS (Type 2),60.0,DC
+873198,508021,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873197,508020,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873196,508019,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873194,508018,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873193,508017,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873192,508016,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873190,508015,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873188,508013,CCS (Type 2),80.0,DC
+873187,508012,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873186,508011,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873181,508009,CCS (Type 2),200.0,DC
+873180,508008,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873179,508007,CCS (Type 2),200.0,DC
+873175,508005,CCS (Type 2),180.0,DC
+873176,508005,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873174,508004,CCS (Type 2),180.0,DC
+873173,508003,CCS (Type 2),200.0,DC
+873172,508002,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873171,508001,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873170,508000,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873159,507996,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+873122,507990,CCS (Type 2),60.0,DC
+873114,507983,CCS (Type 2),40.0,DC
+873060,507961,Type 2 (Socket Only),22.0,AC (Single-Phase)
+873058,507959,Type 2 (Socket Only),22.0,AC (Single-Phase)
+873057,507958,Type 2 (Socket Only),7.4,AC (Single-Phase)
+873053,507956,CCS (Type 2),40.0,DC
+873011,507933,CCS (Type 1),400.0,DC
+873010,507932,CCS (Type 2),60.0,DC
+873009,507931,Type 2 (Socket Only),22.0,AC (Three-Phase)
+873007,507930,CCS (Type 2),,DC
+873006,507929,CCS (Type 2),,DC
+872996,507922,Type 2 (Socket Only),22.2,AC (Three-Phase)
+872997,507922,Type 2 (Socket Only),22.2,AC (Three-Phase)
+872994,507921,Type 2 (Tethered Connector) ,60.0,DC
+872995,507921,Type 2 (Tethered Connector) ,60.0,DC
+872988,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872989,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872990,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872991,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872992,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872993,507920,Type 2 (Tethered Connector) ,12.7,AC (Three-Phase)
+872976,507919,Type 2 (Socket Only),6.4,AC (Three-Phase)
+872977,507919,Type 2 (Socket Only),6.4,AC (Three-Phase)
+872978,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872979,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872980,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872981,507919,Type 2 (Socket Only),6.4,AC (Three-Phase)
+872982,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872983,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872984,507919,Type 2 (Socket Only),6.4,AC (Three-Phase)
+872985,507919,Type 2 (Socket Only),6.4,AC (Three-Phase)
+872986,507919,Type 2 (Socket Only),12.7,AC (Three-Phase)
+872987,507919,Type 2 (Tethered Connector) ,6.4,AC (Three-Phase)
+872922,507895,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872918,507892,Type 2 (Tethered Connector) ,11.0,AC (Single-Phase)
+872917,507891,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872915,507890,CCS (Type 2),80.0,DC
+872878,507869,CCS (Type 2),210.0,DC
+872877,507868,CCS (Type 2),300.0,DC
+872875,507867,CCS (Type 2),400.0,DC
+872876,507867,CCS (Type 2),400.0,DC
+872872,507866,CCS (Type 2),50.0,DC
+872873,507866,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872874,507866,CHAdeMO,43.0,Unknown
+872871,507865,CCS (Type 2),250.0,DC
+872870,507864,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872869,507863,CCS (Type 2),60.0,DC
+872868,507862,CCS (Type 2),60.0,DC
+872867,507861,CCS (Type 2),60.0,DC
+872864,507859,CCS (Type 2),120.0,DC
+872865,507859,Type 2 (Tethered Connector) ,22.0,AC (Three-Phase)
+872812,507829,CCS (Type 1),320.0,DC
+872813,507829,NACS / Tesla Supercharger,320.0,DC
+872811,507828,CCS (Type 2),60.0,DC
+872810,507827,CCS (Type 2),120.0,DC
+872809,507826,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872807,507825,CCS (Type 2),60.0,DC
+872808,507825,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872805,507824,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872803,507823,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872804,507823,CEE 7/4 - Schuko - Type F,3.6,AC (Single-Phase)
+872802,507822,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872800,507821,Type 2 (Socket Only),11.0,Unknown
+872796,507820,CCS (Type 2),150.0,DC
+872797,507820,CCS (Type 2),60.0,DC
+872798,507820,CHAdeMO,60.0,DC
+872799,507820,Type 2 (Tethered Connector) ,22.0,AC (Three-Phase)
+872795,507819,CCS (Type 2),150.0,Unknown
+872793,507818,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872792,507817,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872791,507816,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872789,507815,Type 2 (Socket Only),7.4,AC (Single-Phase)
+872788,507814,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872787,507813,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872786,507812,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872785,507811,Type 2 (Tethered Connector) ,22.0,AC (Three-Phase)
+872784,507810,CCS (Type 2),22.0,AC (Three-Phase)
+872783,507809,CCS (Type 2),300.0,DC
+872782,507808,CCS (Type 2),200.0,DC
+872779,507807,CCS (Type 2),180.0,DC
+872780,507807,CCS (Type 2),50.0,DC
+872781,507807,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872774,507806,CCS (Type 2),300.0,DC
+872775,507806,CHAdeMO,80.0,DC
+872776,507806,CCS (Type 2),150.0,DC
+872777,507806,CHAdeMO,80.0,DC
+872773,507805,CCS (Type 2),120.0,DC
+872771,507804,CCS (Type 2),400.0,DC
+872770,507803,CCS (Type 2),60.0,DC
+872769,507802,CCS (Type 2),180.0,DC
+872768,507801,CCS (Type 2),120.0,DC
+872757,507791,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872727,507780,CCS (Type 2),50.0,DC
+872728,507780,CCS (Type 2),50.0,DC
+872724,507779,CCS (Type 2),160.0,DC
+872725,507779,CCS (Type 2),160.0,DC
+872726,507779,CHAdeMO,62.0,DC
+872715,507772,Type 2 (Tethered Connector) ,22.0,AC (Three-Phase)
+872713,507771,Type 2 (Tethered Connector) ,22.0,AC (Three-Phase)
+872714,507771,GB-T AC - GB/T 20234.2 (Socket),22.0,AC (Three-Phase)
+872657,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872658,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872659,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872660,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872661,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872662,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872663,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872664,507763,Type 2 (Socket Only),22.0,AC (Single-Phase)
+872665,507763,Type 2 (Tethered Connector) ,44.0,AC (Single-Phase)
+872666,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872667,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872668,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872669,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872670,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872671,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872672,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872673,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872674,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872675,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872676,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872677,507763,Type 2 (Tethered Connector) ,22.0,AC (Single-Phase)
+872635,507746,CCS (Type 2),120.0,DC
+872636,507746,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872634,507745,Type 2 (Tethered Connector) ,7.0,Unknown
+872633,507744,Type 2 (Tethered Connector) ,7.0,Unknown
+872632,507743,Type 2 (Tethered Connector) ,22.0,Unknown
+872630,507742,Type 2 (Tethered Connector) ,7.0,Unknown
+872629,507741,Type 2 (Tethered Connector) ,22.0,Unknown
+872628,507740,Type 2 (Socket Only),22.0,Unknown
+872626,507739,CCS (Type 2),60.0,DC
+872627,507739,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872623,507738,CCS (Type 2),60.0,DC
+872624,507738,Type 2 (Socket Only),22.0,AC (Three-Phase)
+872617,507737,CCS (Type 2),100.0,DC
+872615,507736,CCS (Type 2),150.0,DC
+872601,507725,CCS (Type 2),60.0,Unknown
+872600,507724,Type 2 (Tethered Connector) ,22.2,AC (Three-Phase)
+872554,507715,Unknown,,AC (Three-Phase)
+872553,507714,CCS (Type 2),160.0,DC
