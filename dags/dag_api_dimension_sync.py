@@ -123,7 +123,7 @@ def API_dimension_sync():
             raise Exception(f"Error during loading raw_API_data.json/connecting to db: {e}")
 
         try:
-            data = cursor.executemany("""
+            cursor.executemany("""
                 INSERT INTO dim_station (station_id, station_name, operator_name, latitude, longitude)
                 VALUES (:station_id, :station_name, :operator_name, :latitude, :longitude)
                 ON CONFLICT(station_id) DO UPDATE SET
@@ -136,7 +136,7 @@ def API_dimension_sync():
             raise Exception(f"A database error occurred: {e}")
 
         try:
-            data = cursor.executemany("""
+            cursor.executemany("""
                 INSERT INTO dim_connection (connection_id, station_id, connection_type, power_kw, current_type)
                 VALUES (:connection_id, :station_id, :connection_type, :power_kw, :current_type)
                 ON CONFLICT(connection_id) DO UPDATE SET
