@@ -48,8 +48,6 @@ def csv_hourly_ingest():
     def deduplicate_email(email, unique_emails):
         if pd.isna(email):
             return email
-        # Шукаємо найкращий збіг серед усіх унікальних імейлів
-        # Схожість > 90% (наприклад, john.doe@.. та john.deo@..) вважаємо однією людиною
         match, score = process.extractOne(str(email), unique_emails)
         return match if score >= 90 else email
 
@@ -58,6 +56,7 @@ def csv_hourly_ingest():
         df = pd.read_csv(RAW_CSV_PATH)
 
         # Delete rows with missing values
+        # Видалення рядеів з пропущеними даними
         df = df.dropna(axis='index', subset=["kwh_charged", "duration_minutes"])
         df = df[(df["kwh_charged"] > 0) & (df["duration_minutes"] > 0)].copy()
 
