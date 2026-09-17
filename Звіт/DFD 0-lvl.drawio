@@ -1,0 +1,54 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Es4mWlXnuLlYFYF5qhje">
+    <mxGraphModel dx="1414" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-11" edge="1" parent="1" source="DGbzsyY0kp8b4WJurS1c-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DGbzsyY0kp8b4WJurS1c-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-12" connectable="0" parent="DGbzsyY0kp8b4WJurS1c-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Структуровані таблиці&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;(Факти та Виміри)&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3455" y="1" as="geometry">
+            <mxPoint x="24" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-1" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;aspect=fixed;perimeter=ellipsePerimeter;" value="0. ETL-конвеєр обробки телеметрії" vertex="1">
+          <mxGeometry height="120" width="120" x="390" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-2" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Файлова система (CSV)" vertex="1">
+          <mxGeometry height="80" width="160" x="30" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-7" edge="1" parent="1" source="DGbzsyY0kp8b4WJurS1c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" target="DGbzsyY0kp8b4WJurS1c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-8" connectable="0" parent="DGbzsyY0kp8b4WJurS1c-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Запит на генерацію PII&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.575" as="geometry">
+            <mxPoint x="29" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-9" edge="1" parent="1" source="DGbzsyY0kp8b4WJurS1c-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.913;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" target="DGbzsyY0kp8b4WJurS1c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-10" connectable="0" parent="DGbzsyY0kp8b4WJurS1c-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Синтетичні імена&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;та пошти&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.4714" y="1" as="geometry">
+            <mxPoint x="33" y="-22" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-3" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Сервіс маскування (Faker)" vertex="1">
+          <mxGeometry height="80" width="160" x="190" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-4" parent="1" style="shape=cylinder;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;" value="Data Warehouse (SQLite)" vertex="1">
+          <mxGeometry height="133.33" width="100" x="680" y="133.33999999999997" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-5" edge="1" parent="1" source="DGbzsyY0kp8b4WJurS1c-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.025;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="DGbzsyY0kp8b4WJurS1c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DGbzsyY0kp8b4WJurS1c-6" connectable="0" parent="DGbzsyY0kp8b4WJurS1c-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Сирі сесії заряджання&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1858" as="geometry">
+            <mxPoint x="17" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
